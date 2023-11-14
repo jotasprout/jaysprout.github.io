@@ -84,6 +84,32 @@ a.navbar-item.is-active {
     }
 }
 
+#contribution {
+    .hero-body {
+        padding: 3rem 0.25rem 1rem 0.25rem;
+    }
+    
+    #contact-button {
+        margin: 0.5rem auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    svg {
+        transition: all 0.15s ease-in-out;
+        margin: auto 0.75vmax;
+
+        &:hover {
+            transform: scale(1.10);
+            filter: opacity(0.75);
+        }
+    }
+
+    hr {
+        background-color: black;
+    }
+}
+
 #contact {
     .hero-body {
         padding: 3rem 0.25rem 1rem 0.25rem;
@@ -175,32 +201,6 @@ a.navbar-item.is-active {
         }
     }
 }
-
-#search {
-    border-bottom: 0.15rem solid;
-
-    input {
-        border: none;
-        outline: none;
-        font-weight: 500 !important;
-
-        &::placeholder {
-            font-weight: 500;
-            color: grey;
-            letter-spacing: 0.25rem;
-        }
-    }
-
-    .button {
-        transition: all 0.25s ease;
-        &:focus {
-            outline: 0.25rem solid white;
-        }
-
-        border: none;
-    }
-}
-
 
 #footer {
     #backtotop {

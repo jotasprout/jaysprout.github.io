@@ -7,7 +7,7 @@ url: 'https://gasarafin.github.io'
 baseurl:
 
 # Title of the Site
-title: Greg's Portfolio
+title: Gregory A Sarafin
 # Description of the Site
 description: Full-Stack Engineer | Project Manager | IoT Developer
 # URL of Image of the Site
@@ -31,10 +31,12 @@ github_username:  gasarafin
 
 # Name of the Author
 author-name: Gregory A Sarafin
+# Short Name of the Author
+short-author-name: Greg Sarafin
 # URL for the Image of the Author
 author-image: /assets/images/headshot.jpg
 # 60 Words About the Author
-author-about: Full-stack engineer and project manager with experience in both hardware and software development.
+author-about: Full-stack engineer and project manager with experience in both hardware and software development. Driven by a passion for technology and a commitment to efficient project delivery.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://www.linkedin.com/in/gasarafin/
 # Footer About Blurb
