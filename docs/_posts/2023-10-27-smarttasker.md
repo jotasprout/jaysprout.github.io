@@ -65,4 +65,4 @@ tags:
 
 ## Delete Task
 
-<video width="700" height="376" src="../assets/images/Delete_Task.mp4" frameborder="0" poster="/../assets/images/Delete_poster.png" controls title="Delete Task"></video>
+<video width="700" height="376" src="../assets/images/Delete_Task.mp4" frameborder="0" poster="/../assets/images/delete_poster.png" controls title="Delete Task"></video>
