@@ -47,22 +47,22 @@ tags:
 
 ## Sort Task (Drag and Drop)
 
-<iframe width="700" height="376" src="../assets/images/Sort_Tasks.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen controls title="Sort Tasks"></iframe>
+<video width="700" height="376" src="../assets/images/Sort_Tasks.mp4" frameborder="0" poster="/../assets/images/sort_poster.png" controls title="Sort Tasks"></video>
 
 ---
 
 ## Add Task
 
-<iframe width="700" height="376" src="../assets/images/Add_Task.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen controls title="Add Task"></iframe>
+<video width="700" height="376" src="../assets/images/Add_Task.mp4" frameborder="0" poster="/../assets/images/add_poster.png" controls title="Add Task"></video>
 
 ---
 
 ## Edit Task
 
-<iframe width="700" height="376" src="../assets/images/Edit_Task.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen controls title="Edit Task"></iframe>
+<video width="700" height="376" src="../assets/images/Edit_Task.mp4" frameborder="0" poster="/../assets/images/edit_poster.png" controls title="Edit Task"></video>
 
 ---
 
 ## Delete Task
 
-<iframe width="700" height="376" src="../assets/images/Delete_Task.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen controls title="Delete Task"></iframe>
+<video width="700" height="376" src="../assets/images/Delete_Task.mp4" frameborder="0" poster="/../assets/images/Delete_poster.png" controls title="Delete Task"></video>
